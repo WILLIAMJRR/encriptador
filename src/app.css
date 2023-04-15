@@ -35,7 +35,7 @@ body {
 .form__input {
   display: flex;
   width: 350px;
-  height: 3.5rem;
+  height: 4rem;
   resize: none;
   font-size: 1.7rem;
   border: none;
