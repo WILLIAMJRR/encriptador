@@ -49,7 +49,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     input.value = '';
   }
-
   function handleClickDesencriptar(e) {
     e.preventDefault();
     textEncriptado.innerHTML = desencriptar();
